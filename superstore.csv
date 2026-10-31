@@ -1,0 +1,21 @@
+Order ID,Order Date,Customer Name,Segment,Region,State,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Delivery_Status
+ORD-1001,05-01-2025,Aarav Sharma,Consumer,West,Maharashtra,Technology,Phones,Apple iPhone 14,69999,2,0.05,8500,Delivered
+ORD-1002,08-01-2025,Priya Patel,Corporate,South,Karnataka,Furniture,Chairs,Office Chair,12500,3,0.1,2100,Cancelled
+ORD-1003,12-01-2025,Rahul Verma,Consumer,North,Delhi,Office Supplies,Binders,Premium Binder,850,5,0,320,Pending
+ORD-1004,18-01-2025,Sneha Joshi,Home Office,West,Gujarat,Technology,Accessories,Wireless Mouse,1800,4,0.05,450,Delivered
+ORD-1005,22-01-2025,Vikram Singh,Consumer,North,Punjab,Furniture,Tables,Study Table,9500,1,0.15,900,Delivered
+ORD-1006,03-02-2025,Neha Gupta,Corporate,East,West Bengal,Office Supplies,Paper,A4 Paper Pack,450,10,0,180,Delivered
+ORD-1007,10-02-2025,Rohan Mehta,Consumer,South,Tamil Nadu,Technology,Laptops,HP Laptop,58999,1,0.08,6200,Pending
+ORD-1008,15-02-2025,Ananya Rao,Home Office,West,Maharashtra,Furniture,Bookcases,Wooden Bookcase,14500,2,0.1,2400,Pending
+ORD-1009,21-02-2025,Karan Shah,Corporate,North,Haryana,Technology,Printers,HP Laser Printer,18999,1,0.05,3100,Pending
+ORD-1010,02-03-2025,Pooja Nair,Consumer,South,Kerala,Office Supplies,Storage,Storage Box,1200,6,0,420,Pending
+ORD-1011,09-03-2025,Aditya Kapoor,Consumer,West,Maharashtra,Technology,Monitors,Dell Monitor,15999,2,0.1,2700,Cancelled
+ORD-1012,14-03-2025,Meera Iyer,Corporate,South,Karnataka,Furniture,Furnishings,Table Lamp,2200,5,0.05,550,Cancelled
+ORD-1013,20-03-2025,Sameer Khan,Consumer,East,Odisha,Office Supplies,Envelopes,Business Envelopes,650,8,0,250,Delivered
+ORD-1014,28-03-2025,Riya Malhotra,Home Office,North,Uttar Pradesh,Technology,Headphones,Sony Headphones,7999,2,0.05,1250,Delivered
+ORD-1015,04-04-2025,Manish Yadav,Corporate,West,Rajasthan,Furniture,Chairs,Executive Chair,18500,2,0.15,2600,Delivered
+ORD-1016,11-04-2025,Kavya Desai,Consumer,West,Maharashtra,Office Supplies,Labels,Address Labels,500,12,0,210,Pending
+ORD-1017,19-04-2025,Arjun Reddy,Consumer,South,Telangana,Technology,Tablets,Samsung Tablet,24999,2,0.1,3500,Cancelled
+ORD-1018,25-04-2025,Simran Kaur,Home Office,North,Punjab,Furniture,Tables,Conference Table,22500,1,0.2,1800,Pending
+ORD-1019,03-05-2025,Yash Agarwal,Corporate,East,Bihar,Office Supplies,Binders,File Binder,950,7,0.05,280,Cancelled
+ORD-1020,10-05-2025,Ishita Sen,Consumer,East,West Bengal,Technology,Accessories,Keyboard,2500,3,0,650,Cancelled
